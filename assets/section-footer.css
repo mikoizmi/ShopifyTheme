@@ -70,31 +70,21 @@
   }
 }
 .footer__column {
-  width: 100%;
-  align-items: flex-end;
+  
 }
 
 .footer__column--info {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding-left: 2rem;
-  padding-right: 2rem;
+  
 }
 
 @media screen and (min-width: 750px) {
   .footer__column--info {
-    padding-left: 0;
-    padding-right: 0;
-    align-items: flex-end;
+    
   }
 }
 
 .footer-block:only-child:last-child {
-  text-align: center;
-  max-width: 76rem;
-  margin: 0 auto;
+  
 }
 
 @media screen and (min-width: 750px) {
