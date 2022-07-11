@@ -164,11 +164,11 @@
 }
 
 .footer__list-social.list-social:only-child {
-  justify-content: center;
+  justify-content: left;
 }
 
 .footer-block__newsletter {
-  text-align: center;
+  text-align: left;
 }
 
 .newsletter-form__field-wrapper {
